@@ -2,9 +2,9 @@
 
 ## Submissions:
 - after line 15 before 16
-- file: [Assembly 1](Assembly1.png)
+- file: [Assembly1.png](Assembly1.png)
 
 - after line 7 before 8
-- fileL: [Assembly 2](Assembly2.png)
+- fileL: [Assembly2.png](Assembly2.png)
 - after line 26 before 27
-- file: [Assembly 3](Assembly3.png)
+- file: [Assembly3.png](Assembly3.png)
